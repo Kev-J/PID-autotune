@@ -3,6 +3,10 @@ PID-autotune
 
 A self-tuning PID demonstration GPL software using genetic algorithm.
 
+Demonstration video here : https://www.youtube.com/watch?v=cK6kWN9K_do
+
+Explanation here : https://kevinjoly25.wordpress.com/2015/01/13/pid-controller-auto-tuning-using-genetic-algorithm/
+
 Dependencies
 ============
 
