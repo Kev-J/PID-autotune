@@ -30,8 +30,6 @@ file(
 
 #INCLUDE(${QT_USE_FILE})
 
-#ADD_DEFINITIONS(${QT_DEFINITIONS} -fPIC)
-
 add_executable(
         pid-autotune
         ${source_files}
