@@ -10,7 +10,7 @@ Explanation here : https://kevinjoly25.wordpress.com/2015/01/13/pid-controller-a
 Dependencies
 ============
 
-- Qt4
+- Qt5
 
 Building
 ============
